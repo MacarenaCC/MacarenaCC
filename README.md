@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacarenaCC
 - 👀 I’m interested in programming
-- 🌱 That's my first time sign up Github,I’m currently learning python.
+- 🌱 That's my first time to sign up Github,I’m currently learning python.
 - 💞️ Hope I can imporove soon  
 - 📫 How to reach me 381485757@qq.com
 
